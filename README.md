@@ -6,6 +6,7 @@ Solutions to Data Structures &amp; Algorithms problems from LeetCode, GeeksforGe
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/amanparganiha/Arrays/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/amanparganiha/Arrays/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/amanparganiha/Arrays/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -23,6 +24,7 @@ Solutions to Data Structures &amp; Algorithms problems from LeetCode, GeeksforGe
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/amanparganiha/Arrays/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/amanparganiha/Arrays/tree/master/0268-missing-number) |
 ## Sorting
 |  |
