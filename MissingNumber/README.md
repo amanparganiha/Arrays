@@ -1,47 +1,54 @@
-268\. Missing Number Solved Easy Topics premium lock icon Companies
-Given an array nums containing n distinct numbers in the range \[0, n\],
-return the only number in the range that is missing from the array.
+<h2><a href="https://leetcode.com/problems/missing-number/description/">Check if Array Is Sorted and Rotated</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an array <code>nums</code> containing <code>n</code><em> distinct numbers in the range <code>[0, n]</code> return the only number in the range that is missing from the array.</p>
 
-Example 1:
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
-Input: nums = \[3,0,1\]
+<pre>
+<strong>Input:</strong> nums = [3,4,5,1,2]
+<strong>Output:</strong> true
+<strong>Explanation:</strong> [1,2,3,4,5] is the original sorted array.
+You can rotate the array by x = 3 positions to begin on the element of value 3: [3,4,5,1,2].
+</pre>
 
-Output: 2
+<p><strong class="example">Example 2:</strong></p>
 
-Explanation:
+<pre>
+<strong>Input:</strong> nums = [2,1,3,4]
+<strong>Output:</strong> false
+<strong>Explanation:</strong> There is no sorted array once rotated that can make nums.
+</pre>
 
-n = 3 since there are 3 numbers, so all numbers are in the range
-\[0,3\]. 2 is the missing number in the range since it does not appear
-in nums.
+<p><strong class="example">Example 3:</strong></p>
 
-Example 2:
+<pre>
+<strong>Input:</strong> nums = [1,2,3]
+<strong>Output:</strong> true
+<strong>Explanation:</strong> [1,2,3] is the original sorted array.
+You can rotate the array by x = 0 positions (i.e. no rotation) to make nums.
+</pre>
 
-Input: nums = \[0,1\]
+<div class="simple-translate-system-theme" id="simple-translate">
+<div>
+<div class="simple-translate-button " style="background-image: url(&quot;moz-extension://8a9ffb6b-7e69-4e93-aae1-436a1448eff6/icons/512.png&quot;); height: 22px; width: 22px; top: 10px; left: 10px;">&nbsp;</div>
 
-Output: 2
+<div class="simple-translate-panel " style="width: 300px; height: 200px; top: 0px; left: 0px; font-size: 13px;">
+<div class="simple-translate-result-wrapper" style="overflow: hidden;">
+<div class="simple-translate-move" draggable="true">&nbsp;</div>
 
-Explanation:
+<div class="simple-translate-result-contents">
+<p class="simple-translate-result" dir="auto">&nbsp;</p>
 
-n = 2 since there are 2 numbers, so all numbers are in the range
-\[0,2\]. 2 is the missing number in the range since it does not appear
-in nums.
+<p class="simple-translate-candidate" dir="auto">&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+</div>
 
-Example 3:
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-Input: nums = \[9,6,4,2,3,5,7,0,1\]
-
-Output: 8
-
-Explanation:
-
-n = 9 since there are 9 numbers, so all numbers are in the range
-\[0,9\]. 8 is the missing number in the range since it does not appear
-in nums.
-
-Constraints:
-
-n == nums.length 1 \<= n \<= 104 0 \<= nums\[i\] \<= n All the numbers
-of nums are unique.
-
-Follow up: Could you implement a solution using only O(1) extra space
-complexity and O(n) runtime complexity?
+<ul>
+	<li><code>1 &lt;= nums.length &lt;= 100</code></li>
+	<li><code>1 &lt;= nums[i] &lt;= 100</code></li>
+</ul>
