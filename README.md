@@ -7,6 +7,7 @@ Solutions to Data Structures &amp; Algorithms problems from LeetCode, GeeksforGe
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/amanparganiha/Arrays/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/amanparganiha/Arrays/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
