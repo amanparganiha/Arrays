@@ -7,6 +7,7 @@ Solutions to Data Structures &amp; Algorithms problems from LeetCode, GeeksforGe
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amanparganiha/Arrays/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/amanparganiha/Arrays/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/amanparganiha/Arrays/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/amanparganiha/Arrays/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amanparganiha/Arrays/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -43,6 +44,7 @@ Solutions to Data Structures &amp; Algorithms problems from LeetCode, GeeksforGe
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/amanparganiha/Arrays/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/amanparganiha/Arrays/tree/master/0075-sort-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/amanparganiha/Arrays/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
