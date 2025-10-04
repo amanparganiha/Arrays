@@ -18,6 +18,7 @@ Solutions to Data Structures &amp; Algorithms problems from LeetCode, GeeksforGe
 | [0169-majority-element](https://github.com/amanparganiha/Arrays/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/amanparganiha/Arrays/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/amanparganiha/Arrays/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/amanparganiha/Arrays/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/amanparganiha/Arrays/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ Solutions to Data Structures &amp; Algorithms problems from LeetCode, GeeksforGe
 | [0073-set-matrix-zeroes](https://github.com/amanparganiha/Arrays/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/amanparganiha/Arrays/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/amanparganiha/Arrays/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/amanparganiha/Arrays/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -77,4 +79,8 @@ Solutions to Data Structures &amp; Algorithms problems from LeetCode, GeeksforGe
 | [0048-rotate-image](https://github.com/amanparganiha/Arrays/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/amanparganiha/Arrays/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/amanparganiha/Arrays/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/amanparganiha/Arrays/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
